@@ -138,12 +138,11 @@ body {
 .slider .list .item .content .type {
   color: #fff;
   display: none;
-  background-color: rgb(0, 0, 0, 0.4);
 } 
 
 .slider .list .item .content .description{
   font-size: 19px; 
-  color: #fff;  
+  color: white;  
   display: none;
   background-color: rgb(0, 0, 0, 0.4);
 }  
